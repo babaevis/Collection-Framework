@@ -9,4 +9,5 @@ It is expected that a string with the same character sequence may be passed seve
 Since the counting operation can be time-consuming, the method should cache the results, so that when the method is given a string previously encountered,
 
 it will simply retrieve the stored result. Use collections and maps where appropriate.
-![E.g.](/example.png)
+E.g.
+!(/example.png)
